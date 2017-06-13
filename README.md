@@ -9,3 +9,7 @@
 [assignment6] (https://github.com/KoenBuurman/assingnments/blob/master/assignment4.ipynb)
 
 [assignment8] (https://github.com/KoenBuurman/assingnments/blob/master/assignment5%20(1).ipynb)
+
+[final R assignment]
+
+[final python assignment]
